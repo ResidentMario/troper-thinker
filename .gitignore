@@ -1,3 +1,5 @@
 __pycache__
 *.p
 *.txt
+.idea/
+troper_thinker.egg-info/

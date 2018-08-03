@@ -5,7 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 import os
 # noinspection PyUnresolvedReferences
-from .store import Storage
+from troper_thinker.store import Storage
 
 
 class Scorer:

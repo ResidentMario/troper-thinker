@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import sys
 # noinspection PyUnresolvedReferences
-from scorer import Scorer
+from troper_thinker.scorer import Scorer
 from tqdm import tqdm
 
 media_list_fp = sys.argv[1]
